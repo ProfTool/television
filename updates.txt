@@ -1,13 +1,2 @@
 ;aiu;
 
-[Update]
-Name = Application
-ProductVersion = 2.0.0
-URL = https://github.com/ProfTool/television/releases/download/tele/22.msi
-Size = 1794560
-SHA256 = D514DFFB7CE61DB9D00B0F19AD3024937317D04B750C0293D48DB9DD38C29DCC
-MD5 = 71ff0d000e5891df73af29ad6c65eff0
-ServerFileName = 2.msi
-Flags = Critical
-RegistryKey = HKUD\Software\Your Company\Application\Version
-Version = 2.0.0
